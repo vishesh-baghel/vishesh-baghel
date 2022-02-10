@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishesh Baghel</h1>
 <h3 align="center">I love Creating stuff in general.</h3>
 
-- 🔭 I’m currently working on **NFT Marketplace**
+- 🔭 I’m currently working on **JavaScript Projects**
 
 - 🌱 I’m currently learning **MERN stack**
 
