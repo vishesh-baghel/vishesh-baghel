@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vishesh</h1>
 <h3 align="center">I love Creating stuff in general.</h3>
 
-- 🔭 I’m currently working on **JavaScript Projects**
+- 🔭 I’m currently working on Some great **JavaScript Projects**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I prefer to work with the **MERN Stack**
 
 - 👯 I’m currently contributing on [Real Dev Squad](https://github.com/Real-Dev-Squad)
 
 - 💬 Ask me about **JavaScript, because it will also help me clear my concepts**
 
-- ⚡ Fun fact **I talk less**
+- ⚡ Fun fact: **I talk less**
 
 <h3 align="left">I like to Solve tricky problems on:</h3>
 <p align="left">
