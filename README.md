@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: **I talk less**
 
-<h3 align="left">I like to Solve tricky problems on:</h3>
+<h3 align="left">I like to Solve DSA problems on:</h3>
 <p align="left">
 <a href="https://auth.geeksforgeeks.org/user/visheshbaghel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="visheshbaghel" height="30" width="40" /></a>
 </p>
